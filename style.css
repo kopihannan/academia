@@ -12,10 +12,19 @@
     right:0;
     background: rgb(0 0 0 / 55%);
 }
+.all-bottom-margin{
+    margin-bottom: 120px;
+}
 .radiou-imgg{
     border-radius: 20px;
 }
 .imagessss {
     width: 213px;
     height: 200px;
+}
+.working-bg img{
+    width: 100%;
+}
+.expolre-css{
+    background-color: #E3F2FD;
 }
